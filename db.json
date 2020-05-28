@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "name": "Notebook",
+      "price": "1500",
+      "id": 5
+    }
+  ]
+}
